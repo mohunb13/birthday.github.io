@@ -1,0 +1,30 @@
+body {
+  font-family: 'Pacifico', cursive;
+  background-image: url('./pink-balloons-with-copy-space.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: left;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: left;
+}
+
+ul {
+  text-align: left;
+}
+
+.home-button {
+  display: block;
+  text-align: left;
+  margin-top: 20px;
+}
+
